@@ -4,18 +4,18 @@ Data for web map application
 | kategorie | Etapa | Vrstva  | Vstup (XLSX) | Výstup (GeoJSON) | Filtrovat podle |
 |-----------|-------|---------|--------------|------------------|-------|
 |  Doprava  | 1     | Letecká doprava |                | |
-|  Podnikatelská síť  | 1     | Automobilový průmysl | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Letecký průmysl | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Elektronika a elektrotechnika | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Energetika | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | ICT Informační a komunikační | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Zpracování kovů | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Výroba plastových výlisků a pryže | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Strojírenství | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Materiály a obaly | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Zdravotnická technika, biotechnologie a farmaceutický průmysl | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť |  1 | 10 největších firem podle sektorů | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
-| Podnikatelská síť  |  1 | Top investice podle původu | Dtb_src_export_20171005.xlsx | dodavatele.geojson| `sectors` |
+|  Podnikatelská síť  | 1     | Automobilový průmysl | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Letecký průmysl | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Elektronika a elektrotechnika | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Energetika | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | ICT Informační a komunikační | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Zpracování kovů | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Výroba plastových výlisků a pryže | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Strojírenství | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Materiály a obaly | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Zdravotnická technika, biotechnologie a farmaceutický průmysl | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť |  1 | 10 největších firem podle sektorů | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
+| Podnikatelská síť  |  1 | Top investice podle původu | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
 | Vzdělávání a VVI |  1 | Who is Who Czech research | whoishow.xlsx | whoiswho.geojson| `sectors` |
 | Vzdělávání a VVI |  1 | VOŠ | | |
 | Vzdělávání a VVI |  1 | SOU | | |
