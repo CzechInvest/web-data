@@ -16,7 +16,14 @@ Data for web map application
 | Podnikatelská síť  |  1 | Zdravotnická technika, biotechnologie a farmaceutický průmysl | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
 | Podnikatelská síť |  1 | 10 největších firem podle sektorů | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
 | Podnikatelská síť  |  1 | Top investice podle původu | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
-| Vzdělávání a VVI |  1 | Who is Who Czech research | whoishow.xlsx | whoiswho.geojson| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - HT | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - AE | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - AU | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - BI | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - IT | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - NN | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - EE | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
+| Vzdělávání a VVI |  1 | Who is Who Czech research - CT | whoishow.xlsx | [whoiswho.geojson](vzdelavani/whoiswho.geojson)| `sectors` |
 | Vzdělávání a VVI |  1 | VOŠ | | |
 | Vzdělávání a VVI |  1 | SOU | | |
 | Vzdělávání a VVI |  1 | SOŠ | | |
