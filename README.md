@@ -44,11 +44,11 @@ Data for web map application
 | Veřejná podpora |  1 | Pobídkové mapy - investice| IP pro Jáchyma.xlsx, RUIAN | [orp.geojson](verejna_podpora/orp.geojson) | `granty` |
 | Nemovitosti |  1 | Průmyslové zóny podpořené státem| | |  |
 | Nemovitosti | 1 | Zvýhodněné průmyslové zóny | IP proj Jáchyma.xlsx | [pz.geojson](verejna_podpora/pz.geojson) | |
-| Socioekonomické ukazatele | 1 | Počet obyvatel | | | |
-| Socioekonomické ukazatele | 1 | Průměrná mzda | | | |
-| Socioekonomické ukazatele | 1 | Míra nezaměstnanosti | | | |
-| Socioekonomické ukazatele | 1 | Počet nezaměstnaných | | | |
-| Socioekonomické ukazatele | 1 | Počet obyvatel | | | |
-| Socioekonomické ukazatele | 1 | Počet obyvatel na jedno pracovní místo | | | |
-| Socioekonomické ukazatele | 1 | Jazyková vybavenost| | | |
+| Socioekonomické ukazatele | 1 | Počet obyvatel | GIS_Veru_Socio-demograf. ukazatele.xlsx | [pz.geojson](verejna_podpora/pz.geojson) | |
+| Socioekonomické ukazatele | 1 | Průměrná mzda | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
+| Socioekonomické ukazatele | 1 | Míra nezaměstnanosti | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
+| Socioekonomické ukazatele | 1 | Počet nezaměstnaných | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
+| Socioekonomické ukazatele | 1 | Počet obyvatel | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
+| Socioekonomické ukazatele | 1 | Počet obyvatel na jedno pracovní místo | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
+| Socioekonomické ukazatele | 1 | Jazyková vybavenost| GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
 | Regionální kanceláře | 1 | Regionální kanceláře CI |RK_tabproJachyma.xlsx | [rk.geojson](rk/reg_offices.geojson) | |
