@@ -52,3 +52,21 @@ Data for web map application
 | Socioekonomické ukazatele | 1 | Počet obyvatel na jedno pracovní místo | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
 | Socioekonomické ukazatele | 1 | Jazyková vybavenost| GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
 | Regionální kanceláře | 1 | Regionální kanceláře CI |RK_tabproJachyma.xlsx | [rk.geojson](rk/reg_offices.geojson) | |
+
+
+## Conversion from GeoJSON to Geobuf (Protocol Buffers)
+
+### Install
+
+```bash
+npm install -g geobuf
+```
+
+### Command Line
+```bash
+json2geobuf data.geojson > data.pbf
+```
+
+### See Also
+- [Geobuf](https://github.com/mapbox/geobuf)
+- [Protocol Buffers](https://developers.google.com/protocol-buffers/)
