@@ -3,7 +3,11 @@ Data for web map application
 
 | kategorie | Etapa | Vrstva  | Vstup (XLSX) | Výstup (GeoJSON) | Filtrovat podle |
 |-----------|-------|---------|--------------|------------------|-------|
-|  Doprava  | 1     | Letecká doprava |                | |
+|  Doprava  | 1     | Letecká doprava | OpenStreetMap | [airports.geojson](doprava/airports.geojson) | |
+|  Doprava  | 1     | Lodní doprava | OpenStreetMap | [ferry.geojson](doprava/ferry.geojson) | |
+|  Doprava  | 1     | Dálnice | OpenStreetMap | [highway.geojson](doprava/highway.geojson) | |
+|  Doprava  | 1     | Silnice 1. třídy | OpenStreetMap | [primary.geojson](doprava/primary.geojson) | |
+|  Doprava  | 1     | Silnice 2. třídy | OpenSreetMap  | [secondary.geojson](doprava/secondary.geojson) | |
 |  Podnikatelská síť  | 1     | Automobilový průmysl | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
 | Podnikatelská síť  |  1 | Letecký průmysl | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
 | Podnikatelská síť  |  1 | Elektronika a elektrotechnika | Dtb_src_export_20171005.xlsx | [dodavatele.geojson](podnikatelska_sit/dodavatele.geojson)| `sectors` |
@@ -65,6 +69,21 @@ npm install -g geobuf
 ### Command Line
 ```bash
 json2geobuf data.geojson > data.pbf
+```
+
+## OverPass queries
+Use in http://overpass-turbo.eu/
+### International airports
+```
+[out:json][timeout:25];
+(
+  relation["iata"]({{bbox}});
+  node["iata"]({{bbox}});  
+  way["iata"]({{bbox}});  
+);
+out body;
+>;
+out skel qt;
 ```
 
 ### See Also
