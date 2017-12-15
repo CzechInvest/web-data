@@ -48,6 +48,7 @@ Data for web map application
 | Veřejná podpora |  1 | Pobídkové mapy - investice| IP pro Jáchyma.xlsx, RUIAN | [orp.geojson](verejna_podpora/orp.geojson) | `granty` |
 | Nemovitosti |  1 | Průmyslové zóny podpořené státem| | |  |
 | Nemovitosti | 1 | Zvýhodněné průmyslové zóny | IP proj Jáchyma.xlsx | [pz.geojson](verejna_podpora/pz.geojson) | |
+| Nemovitosti | 1 | Brownfields | Export_CI GIS.XLSX | [brownfields.geojson](verejna_podpora/brownfields.geojson) | |
 | Socioekonomické ukazatele | 1 | Počet obyvatel | GIS_Veru_Socio-demograf. ukazatele.xlsx | [pz.geojson](verejna_podpora/pz.geojson) | |
 | Socioekonomické ukazatele | 1 | Průměrná mzda | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
 | Socioekonomické ukazatele | 1 | Míra nezaměstnanosti | GIS_Veru_Socio-demograf. ukazatele.xlsx | [kraje.geojson](socioekonomicka/kraje.geojson) |
