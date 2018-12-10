@@ -101,4 +101,8 @@ ogr2ogr -f GeoJSON  -s_srs +init=epsg:5514 -t_srs +init=epsg:4326 -sql "select K
 ogr2ogr -f GeoJSON  -s_srs +init=epsg:5514 -t_srs +init=epsg:4326 -sql "select Kod, Nazev, GeneralizovaneHranice from ORP" ORP.geojson ~/Stažené/20171231_ST_UKSG.xml 
 ogr2ogr -f GeoJSON  -s_srs +init=epsg:5514 -t_srs +init=epsg:4326 -sql "select Kod, Nazev, GeneralizovaneHranice from Vusc" kraje.geojson ~/Stažené/20171231_ST_UKSG.xml
 ```
+## Data update
 
+```
+python3 src/lib/osm.py
+```
