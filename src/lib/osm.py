@@ -145,11 +145,11 @@ def _update_overpass(query, destination, filters, types):
             if filters:
                 if filters not in relation.tags or not relation.tags[filters]:
                     continue
-            first_member = relation.members[0]
-            if isinstance(first_member, overpy.RelationWay):
-                lon, lat = float(relation.nodes[0].lon), float(relation.nodes[0].lat)
-            else:
-                lon, lat = float(first_member.lon), float(first_member.lat)
+            first_member = relation.members[0].resolve()
+            #if isinstance(first_member, overpy.RelationWay):
+            lon, lat = float(first_member.nodes[0].lon), float(first_member.nodes[0].lat)
+            #else:
+            #    lon, lat = float(first_member.lon), float(first_member.lat)
             geojson["features"].append({
                 "type": "Feature",
                 "properties": relation.tags,
