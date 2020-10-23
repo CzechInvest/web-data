@@ -1,1 +1,239 @@
-{"type": "FeatureCollection", "features": [{"properties": {"name": "Jiho\u010desk\u00fd kraj", "ci_id": 0, "director": "Radka Rajnochov\u00e1", "email": "ceskebudejovice@czechinvest.org", "phone": "296 342\u00a0943", "address": "Radni\u010dn\u00ed 133/1, \u010cesk\u00e9 Bud\u011bjovice 1, 37001 \u010cesk\u00e9 Bud\u011bjovice"}, "geometry": {"type": "Point", "coordinates": [14.472908008811435, 48.974050968140475]}, "type": "Feature"}, {"properties": {"name": "Jihomoravsk\u00fd kraj", "ci_id": 1, "director": "Hana \u0160indelkov\u00e1", "email": "brno@czechinvest.org", "phone": 296342442, "address": "Holandsk\u00e1 859/3, \u0160t\u00fd\u0159ice, 63900 Brno"}, "geometry": {"type": "Point", "coordinates": [16.604310042761654, 49.18092925706234]}, "type": "Feature"}, {"properties": {"name": "Karlovarsk\u00fd kraj", "ci_id": 2, "director": "Nikol Klimajov\u00e1", "email": "karlovyvary@czechinvest.org", "phone": "296\u00a0342 961", "address": "Jaltsk\u00e1 906/1, 36001 Karlovy Vary"}, "geometry": {"type": "Point", "coordinates": [12.86833416560319, 50.229517488554144]}, "type": "Feature"}, {"properties": {"name": "Kr\u00e1lov\u00e9hradeck\u00fd kraj", "ci_id": 3, "director": "Martina Ceplov\u00e1", "email": "hradeckralove@czechinvest.org", "phone": "296\u00a0342 948", "address": "Soukenick\u00e1 54/8, 50003 Hradec Kr\u00e1lov\u00e9"}, "geometry": {"type": "Point", "coordinates": [15.829995975685666, 50.208257279284254]}, "type": "Feature"}, {"properties": {"name": "Libereck\u00fd kraj", "ci_id": 4, "director": "Jan Ma\u0161ek", "email": "liberec@czechinvest.org", "phone": "296\u00a0342 971", "address": "U Jezu 525/4, Liberec IV-Per\u0161t\u00fdn, 46001 Liberec"}, "geometry": {"type": "Point", "coordinates": [15.053770241355659, 50.763894441911994]}, "type": "Feature"}, {"properties": {"name": "Moravskoslezsk\u00fd kraj", "ci_id": 5, "director": "Barbora Dost\u00e1lov\u00e1", "email": "ostrava@czechinvest.org", "phone": 296342977, "address": "Technologick\u00e1 372/2, Pustkovec, 70800 Ostrava"}, "geometry": {"type": "Point", "coordinates": [18.154703794266542, 49.83809700662796]}, "type": "Feature"}, {"properties": {"name": "Olomouck\u00fd kraj", "ci_id": 6, "director": "Veronika Pudelov\u00e1 Voltnerov\u00e1", "email": "olomouc@czechinvest.org", "phone": "296\u00a0342\u00a0982\u00a0\u200b", "address": "Jeremenkova 1211/40b, Hodolany, 77900 Olomouc"}, "geometry": {"type": "Point", "coordinates": [17.277486222794423, 49.590800367657835]}, "type": "Feature"}, {"properties": {"name": "Pardubick\u00fd kraj", "ci_id": 7, "director": "Tom\u00e1\u0161 Vlas\u00e1k", "email": "pardubice@czechinvest.org", "phone": 296342934, "address": "K Vinici 1256, Zelen\u00e9 P\u0159edm\u011bst\u00ed, 53002 Pardubice"}, "geometry": {"type": "Point", "coordinates": [15.782719229050832, 50.03089299978581]}, "type": "Feature"}, {"properties": {"name": "Plze\u0148sk\u00fd kraj", "ci_id": 8, "director": "Milan Kavka", "email": "plzen@czechinvest.org", "phone": "296\u00a0342 965", "address": "Americk\u00e1 8/39, Ji\u017en\u00ed P\u0159edm\u011bst\u00ed, 30100 Plze\u0148"}, "geometry": {"type": "Point", "coordinates": [13.378190713329671, 49.7436238958982]}, "type": "Feature"}, {"properties": {"name": "St\u0159edo\u010desk\u00fd kraj a Praha", "ci_id": 9, "director": "Denisa \u010c\u00edhalov\u00e1", "email": "praha@czechinvest.org", "phone": 296342707, "address": "\u0160t\u011bp\u00e1nsk\u00e1 567/15, Nov\u00e9 M\u011bsto, 12000 Praha 2"}, "geometry": {"type": "Point", "coordinates": [14.424488725755456, 50.07700463772573]}, "type": "Feature"}, {"properties": {"name": "\u00dasteck\u00fd kraj", "ci_id": 10, "director": "Alena H\u00e1jkov\u00e1", "email": "ustinadlabem@czechinvest.org", "phone": "296\u00a0342\u00a0990", "address": "M\u00edrov\u00e9 n\u00e1m\u011bst\u00ed 207/34, \u00dast\u00ed nad Labem-centrum, 40001 \u00dast\u00ed nad Labem"}, "geometry": {"type": "Point", "coordinates": [14.039645068374757, 50.65998317234698]}, "type": "Feature"}, {"properties": {"name": "Kraj Vyso\u010dina", "ci_id": 11, "director": "Adam Joura", "email": "jihlava@czechinvest.org", "phone": "296\u00a0342 993", "address": "Komensk\u00e9ho 1610/31, 58601 Jihlava"}, "geometry": {"type": "Point", "coordinates": [15.58888996719819, 49.39830382673071]}, "type": "Feature"}, {"properties": {"name": "Zl\u00ednsk\u00fd kraj", "ci_id": 12, "director": "Luk\u00e1\u0161 Tr\u010dka", "email": "zlin@czechinvest.org", "phone": "296\u00a0342\u00a0954", "address": "Vavre\u010dkova 5262, 76001 Zl\u00edn"}, "geometry": {"type": "Point", "coordinates": [17.657911802667194, 49.223985065311375]}, "type": "Feature"}]}
+{
+   "features" : [
+      {
+         "geometry" : {
+            "coordinates" : [
+               14.4729080088114,
+               48.9740509681405
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Radniční 133/1, České Budějovice 1, 37001 České Budějovice",
+            "ci_id" : 0,
+            "director" : "Radka Rajnochová",
+            "email" : "ceskebudejovice@czechinvest.org",
+            "name" : "Jihočeský kraj",
+            "phone" : "296 342 943"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               16.6043100427617,
+               49.1809292570623
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Holandská 859/3, Štýřice, 63900 Brno",
+            "ci_id" : 1,
+            "director" : "Hana Šindelková",
+            "email" : "brno@czechinvest.org",
+            "name" : "Jihomoravský kraj",
+            "phone" : 296342442
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               12.8683341656032,
+               50.2295174885541
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Jaltská 906/1, 36001 Karlovy Vary",
+            "ci_id" : 2,
+            "director" : "Nikol Klimajová",
+            "email" : "karlovyvary@czechinvest.org",
+            "name" : "Karlovarský kraj",
+            "phone" : "296 342 961"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               15.8299959756857,
+               50.2082572792843
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Soukenická 54/8, 50003 Hradec Králové",
+            "ci_id" : 3,
+            "director" : "Martina Ceplová",
+            "email" : "hradeckralove@czechinvest.org",
+            "name" : "Královéhradecký kraj",
+            "phone" : "296 342 948"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               15.0537702413557,
+               50.763894441912
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "U Jezu 525/4, Liberec IV-Perštýn, 46001 Liberec",
+            "ci_id" : 4,
+            "director" : "Jan Mašek",
+            "email" : "liberec@czechinvest.org",
+            "name" : "Liberecký kraj",
+            "phone" : "296 342 971"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               18.1547037942665,
+               49.838097006628
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Technologická 372/2, Pustkovec, 70800 Ostrava",
+            "ci_id" : 5,
+            "director" : "Barbora Dostálová",
+            "email" : "ostrava@czechinvest.org",
+            "name" : "Moravskoslezský kraj",
+            "phone" : 296342977
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               17.2774862227944,
+               49.5908003676578
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Jeremenkova 1211/40b, Hodolany, 77900 Olomouc",
+            "ci_id" : 6,
+            "director" : "Veronika Pudelová Voltnerová",
+            "email" : "olomouc@czechinvest.org",
+            "name" : "Olomoucký kraj",
+            "phone" : "296 342 982 ​"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               15.7827192290508,
+               50.0308929997858
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "K Vinici 1256, Zelené Předměstí, 53002 Pardubice",
+            "ci_id" : 7,
+            "director" : "Tomáš Vlasák",
+            "email" : "pardubice@czechinvest.org",
+            "name" : "Pardubický kraj",
+            "phone" : 296342934
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               13.3781907133297,
+               49.7436238958982
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Americká 8/39, Jižní Předměstí, 30100 Plzeň",
+            "ci_id" : 8,
+            "director" : "Milan Kavka",
+            "email" : "plzen@czechinvest.org",
+            "name" : "Plzeňský kraj",
+            "phone" : "296 342 965"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               14.4244887257555,
+               50.0770046377257
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Štěpánská 567/15, Nové Město, 12000 Praha 2",
+            "ci_id" : 9,
+            "director" : "Denisa Číhalová",
+            "email" : "praha@czechinvest.org",
+            "name" : "Středočeský kraj a Praha",
+            "phone" : 296342707
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               14.0404003,
+               50.6616589
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Velká Hradební 2800/54, Ústí nad Labem-centrum, 40001 Ústí nad Labem",
+            "ci_id" : 10,
+            "director" : "Alena Hájková",
+            "email" : "ustinadlabem@czechinvest.org",
+            "name" : "Ústecký kraj",
+            "phone" : "296 342 990"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               15.5888899671982,
+               49.3983038267307
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Komenského 1610/31, 58601 Jihlava",
+            "ci_id" : 11,
+            "director" : "Adam Joura",
+            "email" : "jihlava@czechinvest.org",
+            "name" : "Kraj Vysočina",
+            "phone" : "296 342 993"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               17.6579118026672,
+               49.2239850653114
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "address" : "Vavrečkova 5262, 76001 Zlín",
+            "ci_id" : 12,
+            "director" : "Lukáš Trčka",
+            "email" : "zlin@czechinvest.org",
+            "name" : "Zlínský kraj",
+            "phone" : "296 342 954"
+         },
+         "type" : "Feature"
+      }
+   ],
+   "type" : "FeatureCollection"
+}
